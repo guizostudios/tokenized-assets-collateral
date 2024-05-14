@@ -2,6 +2,8 @@
 
 # Smart Contract for Loans with Tokenized Securities as Collateral
 
+**Contract address - Lisk L2 Testnet:** 0xD16836357769cC1Fc3427c1acc233E6974800896
+
 This repository contains smart contracts developed for the "Tokenized Asset Collateral" project, which aims to use tokenized securities as collateral for loans to NGOs or small producer companies in the carbon credit sector. The project involves issuing NFTs linked to these securities, which can be used as collateral by individuals interested in supporting sustainable initiatives.
 
 ## Proposal Overview
